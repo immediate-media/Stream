@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/stream",
+    "name"       : "immediate-media/hoa-stream",
     "description": "The Hoa\\Stream library.",
     "type"       : "library",
     "keywords"   : ["library", "stream", "bucket", "composite", "context",
@@ -24,10 +24,10 @@
         "source": "https://central.hoa-project.net/Resource/Library/Stream"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/event"      : "~1.0",
-        "hoa/exception"  : "~1.0",
-        "hoa/protocol"   : "~1.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-event"      : "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0",
+        "immediate-media/hoa-protocol"   : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
